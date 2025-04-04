@@ -7,6 +7,8 @@ Installation
 ============
 Place this directory in your PYTHONPATH.
 
+Requires numpy and matplotlib.
+
 Basic Usage
 ===========
 ```
